@@ -10,8 +10,8 @@ gem 'devise'
 gem 'bootstrap-sass'
 gem 'sass-rails'
 gem 'hirb'
-gem 'rest-client'
 gem 'bootstrap_form'
+gem 'httparty'
 
 group :development do
   gem 'byebug'

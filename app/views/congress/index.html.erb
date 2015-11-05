@@ -1,0 +1,5 @@
+<%= form_tag 'congress/index', method: :get do %>
+<%= label_tag :zip_code, 'Search for your local congressman' %>
+<%= text_field_tag :zip_code %>
+<%= submit_tag 'Search' %>
+<% end %>
