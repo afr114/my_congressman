@@ -12,6 +12,7 @@ gem 'sass-rails'
 gem 'hirb'
 gem 'bootstrap_form'
 gem 'httparty'
+gem 'json'
 
 group :development do
   gem 'byebug'
